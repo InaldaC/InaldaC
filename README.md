@@ -1,5 +1,5 @@
 ### Hi there 👋
- Inalda C here and I'm a Designer UI/UX that are wondering to travel to the code world.
+ InaldaC here and I'm a Designer UI/UX that are wondering to travel to the code world.
  Welcome to my GitHub profile!
  
  ## About Me
